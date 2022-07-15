@@ -15,5 +15,8 @@ The reason I made this instead of just using another addon was due to how docume
 
 To add a new document to your game, simply move an image with the following naming scheme documentname_documentation into materials/ryanm2711/scp_documents/
 
+## Limitations
+Currently the only limitation to this system is that it only accepts PNG, JPG, and VTF image formats.
+
 ## Credits
 Fakie - Adding all the default documents to the addon.

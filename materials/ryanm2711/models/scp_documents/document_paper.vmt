@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	$basetexture ryanm2711\models\scp_documents\document_paper
+	$surfaceprop paper
+	$nocull 1
+}

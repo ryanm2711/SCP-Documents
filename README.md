@@ -1,5 +1,8 @@
 # SCP-Documents
 
+## Workshop Version
+https://steamcommunity.com/sharedfiles/filedetails/?id=2823393413
+
 ## Description
 Document all your anomalies within your SCP server with ease! Never before has it been easy to load your SCP documents, it's so easy it's just a simple drag and drop!
 

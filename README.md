@@ -14,7 +14,7 @@ Unlike other addons, this addon only uses one entity and can have it's document 
 To interact with the document, simply press E and read it's contents. Once you are finished with it, you may close the document by clicking your mouse anywhere on screen.
 
 ## For Developers/Curious Folk
-The reason I made this instead of just using another addon was due to how document loading was handled. Having loads of separate entities for each doocument felt like a headache, I decided to create my own and spare myself the torment.
+The reason I made this instead of just using another addon was due to how document loading was handled. Having loads of separate entities for each document felt like a headache, I decided to create my own and spare myself the torment.
 
 To add a new document to your game, simply move an image with the following naming scheme documentname_documentation into materials/ryanm2711/scp_documents/
 
